@@ -1,0 +1,77 @@
+#toolbar{
+    
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    height: 17px;
+    width:100%;
+    display: flex;
+    align-items: center;
+    
+    background: rgb(32,32,32);
+    padding: 20px 80px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
+    z-index:2;
+  }
+#videoStream{
+  position: fixed;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    
+    top:60px;
+    left:34%;
+    
+    width: 39.5%;
+    height: 37%;
+   background: none;
+ 
+    z-index: 4;
+}
+picture{
+  position: fixed;
+  display:flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  background-color: black;
+  top: 60px;
+  left:3.9%;
+  width:100%;
+  height: 120%;
+  
+}
+
+
+
+#logo{
+  
+    background-color: rgb(32,32,32);
+    color: whitesmoke;
+  }
+  #button{
+    border: none;
+    background-color: rgb(32,32,32);
+    margin-top: 25px;
+    margin-right:20px ;
+  }
+  #button :hover,
+  #logo:hover {
+    
+    color: #17cf97;
+    
+  }
+  #space{
+    background-color: #4e4848;
+    color:#4e4848;
+    margin-top: 2px;
+    margin-right:20px ;
+  }
+  
+  #pipeline{
+    margin-left: 390px;
+    z-index: 4;
+  }
+
+ 

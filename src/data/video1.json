@@ -1,0 +1,62 @@
+[
+  {
+    "time": 1,
+    "objects": ["Car Travelling North"],
+    "coordinates": ["39° 50'0.00' N / 75.0365° 50'0.00' W"],
+    "image": "./images/Truck.png"
+  },
+  {
+    "time": 4,
+    "objects": ["Bike Travelling East", "Tree"],
+    "coordinates": ["38° 55'0.00' N / 77.1234° 50'0.00' E", "38° 55'5.00' N / 77.1239° 50'0.05' W"],
+    "image": "./images/Truck.png"
+  },
+  {
+    "time": 6,
+    "objects": ["Truck Travelling South"],
+    "coordinates": ["37° 45'0.00' S / 76.7890° 49'0.00' E"],
+    "image": "./images/Truck.png"
+  },
+  {
+    "time": 9,
+    "objects": ["Scooter Travelling West"],
+    "coordinates": ["39° 30'0.00' N / 75.6543° 49'0.00' W"],
+    "image": "./images/Truck.png"
+  },
+  {
+    "time": 12,
+    "objects": ["Pedestrian", "Dog"],
+    "coordinates": ["38° 25'0.00' N / 77.6789° 51'0.00' W", "38° 25'5.00' N / 77.6794° 51'0.05' W"],
+    "image": "./images/Truck.png"
+  },
+  {
+    "time": 15,
+    "objects": ["Motorcycle Travelling East"],
+    "coordinates": ["39° 18'0.00' N / 76.8765° 48'0.00' E"],
+    "image": "./images/Truck.png"
+  },
+  {
+    "time": 18,
+    "objects": ["Bus Travelling North"],
+    "coordinates": ["37° 32'0.00' N / 77.9876° 49'0.00' W"],
+    "image": "./images/Truck.png"
+  },
+  {
+    "time": 21,
+    "objects": ["Bicycle Travelling South"],
+    "coordinates": ["36° 11'0.00' S / 78.4567° 50'0.00' E"],
+    "image": "./images/Truck.png"
+  },
+  {
+    "time": 24,
+    "objects": ["Car Travelling West"],
+    "coordinates": ["38° 55'0.00' N / 76.4321° 47'0.00' W"],
+    "image": "./images/Truck.png"
+  },
+  {
+    "time": 27,
+    "objects": ["Truck Travelling East"],
+    "coordinates": ["39° 22'0.00' N / 77.1234° 48'0.00' E"],
+    "image": "./images/Truck.png"
+  }
+]

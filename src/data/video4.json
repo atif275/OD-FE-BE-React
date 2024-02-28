@@ -1,0 +1,42 @@
+[
+  {
+    "time": 1,
+    "objects": ["Bike Travelling East"],
+    "coordinates": ["38° 50'0.00' N / 77.0370° 50'0.00' E"]
+  },
+  {
+    "time": 2,
+    "objects": ["Pedestrian Travelling North"],
+    "coordinates": ["38° 51'0.00' N / 77.0365° 50'0.00' W"]
+  },
+  {
+    "time": 4,
+    "objects": ["Scooter Travelling South"],
+    "coordinates": ["38° 48'0.00' S / 77.0365° 50'0.00' E"]
+  },
+  {
+    "time": 6,
+    "objects": ["Car Travelling West", "Tree Stationary"],
+    "coordinates": ["38° 50'0.00' N / 77.0390° 50'0.00' W", "38° 50'0.00' N / 77.0390° 50'0.00' W"]
+  },
+  {
+    "time": 7,
+    "objects": ["Motorcycle Travelling East"],
+    "coordinates": ["38° 50'0.00' N / 77.0375° 50'0.00' E"]
+  },
+  {
+    "time": 9,
+    "objects": ["Bus Travelling South"],
+    "coordinates": ["38° 48'0.00' S / 77.0365° 50'0.00' W"]
+  },
+  {
+    "time": 10,
+    "objects": ["Truck Travelling North"],
+    "coordinates": ["38° 52'0.00' N / 77.0365° 50'0.00' E"]
+  },
+  {
+    "time": 12,
+    "objects": ["Bike Travelling West"],
+    "coordinates": ["38° 50'0.00' N / 77.0395° 50'0.00' W"]
+  } 
+]

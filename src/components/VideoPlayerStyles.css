@@ -1,0 +1,27 @@
+#vid{
+    z-index: 4;
+}
+
+.video-thumbnails {
+    display: flex;
+    overflow-x: auto;
+    padding: 20px;
+    gap: 20px;
+  }
+  
+  .video-thumbnail {
+    flex: 0 0 auto;
+    width: 120px;
+    cursor: pointer;
+    transition: transform 0.2s;
+  }
+  
+  .video-thumbnail:hover {
+    transform: scale(1.1);
+  }
+  
+  video {
+    max-width: 100%;
+    margin-bottom: 20px;
+  }
+  
